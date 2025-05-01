@@ -16,14 +16,6 @@
 
 ---
 
-## 📱 Screens
-
-| Biometric Login | Add Credential | View Credentials |
-|-----------------|----------------|------------------|
-| _[Add screenshots here]_ | _[Add screenshots here]_ | _[Add screenshots here]_ |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Kotlin**
